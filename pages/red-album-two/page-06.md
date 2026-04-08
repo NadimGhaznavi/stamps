@@ -1,0 +1,9 @@
+---
+title: Red Album Two
+---
+
+# Page Six
+
+<object data="/scans/red-album-two/red-album-two-06.pdf" type="application/pdf" width="100%" height="900px">
+    <p>It appears you don't have a PDF plugin for this browser. No biggie... you can <a href="/scans/red-album-two/red-album-two-06.pdf" type="application/pdf">click here to download the PDF file.</a></p>
+</object>
