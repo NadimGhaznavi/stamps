@@ -7,3 +7,7 @@ title: Black Album
 <object data="/scans/black-album/black-album-01.pdf" type="application/pdf" width="100%" height="900px">
     <p>It appears you don't have a PDF plugin for this browser. No biggie... you can <a href="/scans/black-album/black-album-01.pdf" type="application/pdf">click here to download the PDF file.</a></p>
 </object>
+
+---
+
+[ 1 [2](/pages/black-album/page-02.html) [3](/pages/black-album/page-03.html) ]
