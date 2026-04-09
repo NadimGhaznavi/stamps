@@ -27,3 +27,10 @@ title: Stamp Collection
 | [Thirteen](/pages/blue-album/page-13.md)    | [Fourteen](/pages/blue-album/page-14.md)   | [Fifteen](/pages/blue-album/page-15.md)    | [Sixteen](/pages/blue-album/page-16.md)    | [Seventeen](/pages/blue-album/page-17.md)    | [Eighteen](/pages/blue-album/page-18.md)    |
 | [Nineteen](/pages/blue-album/page-19.md)    | [Twenty](/pages/blue-album/page-20.md)     | [Twenty-One](/pages/blue-album/page-21.md) | [Twenty-Two](/pages/blue-album/page-22.md) | [Twenty-Three](/pages/blue-album/page-23.md) | [Twenty-Four](/pages/blue-album/page-24.md) |
 | [Twenty-Five](/pages/blue-album/page-25.md) | [Twenty-Six](/pages/blue-album/page-26.md) | 
+
+# Black Album
+
+|                                      |                                      |                                        |
+|--------------------------------------|--------------------------------------|----------------------------------------|
+| [One](/pages/black-album/page-01.md) | [Two](/pages/black-album/page-02.md) | [Three](/pages/black-album/page-03.md) |
+
