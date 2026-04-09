@@ -2,9 +2,11 @@
 title: Stamp Collection
 ---
 
-A fully digitized multi-album stamp collection.
+A fully digitized multi-album stamp collection going back over 60 years.
 
 Browse each album below. All pages are scanned and available in high resolution PDF format.
+
+This collection is for sale. If you are interested, please contact <a href="mailto:nghaznavi@gmail.com">nghaznavi@gmail.com</a>.
 
 ---
 
