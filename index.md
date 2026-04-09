@@ -2,6 +2,10 @@
 title: Stamp Collection
 ---
 
+A fully digitized multi-album stamp collection.
+
+Browse each album below. All pages are scanned and available in high resolution PDF format.
+
 # Red Album One
 
 |                                             |                                             |                                            |                                            |                                              |                                             | 
