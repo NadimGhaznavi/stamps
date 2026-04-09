@@ -10,4 +10,4 @@ title: Black Album
 
 ---
 
-[ [1](/pages/black-album/page-01.html) 2 [3](/pages/black-album/page-03.html) ]
+Navigate to page [ [1](/pages/black-album/page-01.html) 2 [3](/pages/black-album/page-03.html) ]
